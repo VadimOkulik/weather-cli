@@ -1,0 +1,25 @@
+{
+  "name": "cli-weather",
+  "version": "1.0.0",
+  "description": "App CLI weather for Node.js",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VadimOkulik/weather-cli.git"
+  },
+  "keywords": [
+    "weather",
+    "CLI"
+  ],
+  "author": "Vadim Okulik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VadimOkulik/weather-cli/issues"
+  },
+  "homepage": "https://github.com/VadimOkulik/weather-cli#readme"
+}
